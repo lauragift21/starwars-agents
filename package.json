@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "starwars-agents",
   "version": "1.0.0",
   "description": "Get random starwars names",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lauragift21/starwars-names.git"
+    "url": "git+https://github.com/lauragift21/starwars-agents.git"
   },
   "keywords": [
     "random",
@@ -18,9 +18,9 @@
   "author": "Egwuenu Gift <laurandidi21@gmail.com> (https://giftegwuenu.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lauragift21/starwars-names/issues"
+    "url": "https://github.com/lauragift21/starwars-agents/issues"
   },
-  "homepage": "https://github.com/lauragift21/starwars-names#readme",
+  "homepage": "https://github.com/lauragift21/starwars-agents#readme",
   "dependencies": {
     "unique-random-array": "1.0.1"
   }
