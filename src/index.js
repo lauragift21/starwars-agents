@@ -8,6 +8,7 @@ module.exports   = {
 };
 
 function random(number) {
+    "use strict"
     if (number === undefined){
         return getRandomItem();
     }
