@@ -10,6 +10,7 @@ notifications:
 script:
   - npm run test:single
   - npm run check-coverage
+  - npm run build
 after_success:
   - npm run report-coverage
   - npm run travis-deploy-once "npm run semantic-release"
