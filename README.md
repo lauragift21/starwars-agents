@@ -7,3 +7,18 @@
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)
 
 Get list of starwars charaters names or randomly get the names.
+
+## Installation
+
+This package is distrubuted via npm
+
+`npm install starwars-agents`
+
+## Usage
+
+```js
+var names = require('starwars-agents');
+var allNames = names.all;
+var randomNames = names.random();
+var threeRandomNames = names.random(3);
+```
